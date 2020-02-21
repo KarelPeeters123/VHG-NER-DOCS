@@ -6,7 +6,9 @@ De volgende dingen zullen moeten geinstalleerd worden :
 
 [De zip met de nodige files](https://send.firefox.com/download/4c26e02508211e7c/#gpXKBvIg5IEAqZcQ0jCLiA)
 
-dubbel-klik ook op de zip die je download
+[De zip met de tekst-files](https://send.firefox.com/download/51d2743a62b553d6/#TnpDYFbZwB6U_Qxjq1hn7g)
+
+dubbel-klik ook op bijde zips die je download
 
 [python](https://www.python.org/downloads/)
 
