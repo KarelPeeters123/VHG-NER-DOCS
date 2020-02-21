@@ -4,7 +4,7 @@
 
 De volgende dingen zullen moeten geinstalleerd worden :
 
-[De zip met de nodige files](https://send.firefox.com/download/4c26e02508211e7c/#gpXKBvIg5IEAqZcQ0jCLiA)
+[De zip met de nodige files](https://send.firefox.com/download/01ea79c4df1dd73b/#99pqFzQ2Nc6OqeseaLkBAw)
 
 [De zip met de tekst-files](https://send.firefox.com/download/51d2743a62b553d6/#TnpDYFbZwB6U_Qxjq1hn7g)
 
